@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  REACTJS | JAVASCRIPT | TYPESCRIPT | HTML | CSS | API
+-  REACTJS | NODEJS | NODEJS | JAVASCRIPT | TYPESCRIPT | HTML | CSS | API
 - 🌱 I’m currently learning  Unit Tests.
 - 🤔 I’m looking for help to find a job.
 - 💬 Ask me about everything...
