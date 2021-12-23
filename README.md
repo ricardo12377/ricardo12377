@@ -1,11 +1,12 @@
-### Hi there 👋
+REACTJS | JAVASCRIPT | TYPESCRIPT | NODEJS | POSTMAN | CSS | BOOTSTRAP
 
--  REACTJS | NODEJS | NODEJS | JAVASCRIPT | TYPESCRIPT | HTML | CSS | API
-- 🌱 I’m currently learning  Unit Tests.
-- 🤔 I’m looking for help to find a job.
-- 💬 Ask me about everything...
-- https://www.linkedin.com/in/ricardo-costa-302aa1214/
-- 📫 How to reach me: @ricardo.costah/rcostaj00@gmail.com
-- graduated in business
+🌱 - Desenvolvo aplicações web com ReactJS, TypeScript, JavaScript, HTML e CSS.
 
+🤔 - Atualmente estou expandindo meus conhecimentos em NodeJS, banco de dados e NextJS.
 
+📫 - Como me encontrar:
+(84) 9 9816-5546 - rcostaj00@gmail.com - https://github.com/ricardo12377
+
+Sou formado em Administração de empresas, onde pude desenvolver hards e softs skills durante o período em que fiz estágio em uma corretora de seguros gerais, aprendendo a me comunicar com pessoas de várias áreas e influências, trabalhar em equipe e alcançar metas. Hoje em dia estou atuando na área de Desenvolvimento Front-end.
+
+https://github.com/ricardo12377 🇧🇷
