@@ -19,6 +19,7 @@ REACTJS | JAVASCRIPT | TYPESCRIPT | NODEJS |MySQL| CSS | API
     <a href="https://www.linkedin.com/in/ricardo-costa-302aa1214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://sitericardocosta-9ve70gj9j-ricardo12377.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
   </div>
+  
 - https://github.com/ricardo12377 🇧🇷
 - https://sitericardocosta-9ve70gj9j-ricardo12377.vercel.app/
 - Sou formado em Administração de empresas, onde pude desenvolver hards e softs skills durante o período em que fiz estágio em uma corretora de seguros gerais, aprendendo a me comunicar com pessoas de várias áreas e influências, trabalhar em equipe e alcançar metas. Hoje em dia estou atuando na área de Desenvolvimento Front-end.
