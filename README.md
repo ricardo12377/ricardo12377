@@ -6,12 +6,6 @@ REACTJS | JAVASCRIPT | TYPESCRIPT | NODEJS |MySQL| CSS | API
 
 📫 - Como me encontrar:
 (84) 9 9816-5546 - rcostaj00@gmail.com - https://www.linkedin.com/in/ricardo-costa-302aa1214/
-
-<div align="flex-start">
-  <a href="https://github.com/ricardo12377">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo12377&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo12377&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
   <div style="display: inline_block">
     <a href="https://www.instagram.com/ricardo_costah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
