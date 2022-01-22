@@ -1,4 +1,4 @@
-REACTJS | JAVASCRIPT | TYPESCRIPT | NODEJS | MySQL | CSS | API
+REACTJS | NEXTJS | JAVASCRIPT | TYPESCRIPT | NODEJS | MySQL | CSS | API
 
 🌱 - Desenvolvo aplicações web com ReactJS, NextJS, TypeScript, JavaScript, HTML e CSS, Styled Components e TailWindCSS.
 
