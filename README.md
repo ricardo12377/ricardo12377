@@ -17,7 +17,7 @@ REACTJS | NEXTJS | JAVASCRIPT | TYPESCRIPT | NODEJS | MySQL | CSS | API
     <a href="https://www.instagram.com/ricardo_costah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto: rcostaj00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ricardo-costa-302aa1214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://sitericardocosta-9ve70gj9j-ricardo12377.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
+
   </div>
   
 - https://github.com/ricardo12377 🇧🇷
