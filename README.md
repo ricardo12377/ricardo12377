@@ -2,6 +2,8 @@ REACTJS | NEXTJS | JAVASCRIPT | TYPESCRIPT
 
 🌱 - Desenvolvo aplicações web com ReactJS, NextJS, Redux, TypeScript, JavaScript, HTML e CSS, Styled Components e TailWindCSS.
 
+   - Noções de MySQL, NodeJs com ExpressJs. Estudo Golang nas horas vagas.
+
 📫 - Como me encontrar:
 (84) 9 9816-5546 - rcostaj00@gmail.com - https://www.linkedin.com/in/ricardo-costa-302aa1214/
 
