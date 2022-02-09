@@ -19,4 +19,4 @@ REACTJS | NEXTJS | JAVASCRIPT | TYPESCRIPT | NODEJS | MySQL | CSS | API
   </div>
   
 - https://github.com/ricardo12377 🇧🇷
-- Sou formado em Administração de empresas, onde pude desenvolver hards e softs skills durante o período em que fiz estágio em uma corretora de seguros gerais, aprendendo a me comunicar com pessoas de várias áreas e influências, trabalhar em equipe e alcançar metas. Hoje em dia estou atuando na área de Desenvolvimento Front-end.
+- Meu objetivo é criar produtos que facilitem e ajudem as pessoas, busco sempre me atualizar no mercado e aprender coisas novas.
