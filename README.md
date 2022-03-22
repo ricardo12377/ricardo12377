@@ -1,8 +1,16 @@
-REACTJS | NEXTJS | JAVASCRIPT | TYPESCRIPT 
+Full-Stack Developer. 
 
-🌱 - Desenvolvo aplicações web com ReactJS, NextJS, Redux, TypeScript, JavaScript, HTML e CSS, Styled Components e TailWindCSS.
+ReactJS | Golang | NodeJS(Express) | TypeScript | JavaScript
 
-   - Noções de MySQL, NodeJs com ExpressJs. Estudo Golang nas horas vagas.
+Estilização e responsividade com CSS, SCSS, TailwindCSS, Styled-Components. 
+
+Testes com React-Testing-Library e Jest.
+
+React funcional com hooks e controle de estado com ContextAPI, Redux e ReactQuery.
+
+RestAPI's e Cruds com Golang( HTTP & MUX) e Nodejs(Express, TypeORM)
+
+Bancos PostgresSQL e MySQL.
 
 📫 - Como me encontrar:
 (84) 9 9816-5546 - rcostaj00@gmail.com - https://www.linkedin.com/in/ricardo-costa-302aa1214/
@@ -20,5 +28,3 @@ REACTJS | NEXTJS | JAVASCRIPT | TYPESCRIPT
 
   </div>
   
-- https://github.com/ricardo12377 🇧🇷
-- Meu objetivo é criar produtos que facilitem e ajudem as pessoas, busco sempre me atualizar no mercado e aprender coisas novas.
