@@ -1,7 +1,7 @@
 Full-Stack Developer. 
 
 <div align="center">
-  <img height="250em" width="300" src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/illustrations/png/2.png"/>
+  <img height="500em" width="700" src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/illustrations/png/2.png"/>
 </div>
 
 ReactJS | Golang | NodeJS(Express) | TypeScript | JavaScript
