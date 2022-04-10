@@ -12,6 +12,8 @@ Testes com React-Testing-Library e Jest.
 
 React funcional com hooks e controle de estado com ContextAPI, Redux e ReactQuery.
 
+NextJS | GraphQL | GraphCMS
+
 RestAPI's e Cruds com Golang( HTTP & MUX) e Nodejs(Express, TypeORM)
 
 Bancos PostgresSQL e MySQL.
