@@ -4,21 +4,21 @@ Software Developer.
   <img height="500em" width="700" src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/illustrations/png/2.png"/>
 </div>
 
-ReactJS | Golang | NodeJS(Express) | TypeScript | JavaScript
+ReactJS | NodeJS(Express) | TypeScript | JavaScript | Golang
 
-Estilização e responsividade com CSS, SCSS, TailwindCSS, Styled-Components. 
+Style and responsiveness with CSS, SCSS, TailwindCSS, Styled-Components. 
 
-Testes com React-Testing-Library e Jest.
+I  use React-Testing-Library e Jest for tests.
 
-React funcional com hooks e controle de estado com ContextAPI, Redux e ReactQuery.
+React functional with hooks e state control with ContextAPI, Redux and ReactQuery.
 
 NextJS | GraphQL | GraphCMS
 
-RestAPI's e Cruds com Golang( HTTP & MUX) e Nodejs(Express, TypeORM)
+RestAPI's && Cruds i use Golang( HTTP & MUX) and Nodejs(Express, NestJS)
 
-Bancos PostgresSQL e MySQL.
+Databases: MySQL, PostgreSQL.
 
-📫 - Como me encontrar:
+📫 - How to find me:
 (84) 9 9816-5546 - rcostaj00@gmail.com - https://www.linkedin.com/in/ricardo-costa-302aa1214/
 
 
