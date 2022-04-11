@@ -1,4 +1,4 @@
-Front-end Developer. 
+Software Developer. 
 
 <div align="center">
   <img height="500em" width="700" src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/illustrations/png/2.png"/>
