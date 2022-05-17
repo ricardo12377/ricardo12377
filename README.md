@@ -16,7 +16,7 @@ NextJS | GraphQL | GraphCMS
 
 RestAPI's && Cruds i use Golang( HTTP & MUX) and Nodejs(Express, NestJS)
 
-Databases: MySQL, PostgreSQL.
+Databases: MySQL, PostgreSQL and MongoDB.
 
 📫 - How to find me:
 (84) 9 9816-5546 - rcostaj00@gmail.com - https://www.linkedin.com/in/ricardo-costa-302aa1214/
