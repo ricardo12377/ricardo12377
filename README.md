@@ -4,7 +4,7 @@ Software Developer.
   <img height="500em" width="700" src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/illustrations/png/2.png"/>
 </div>
 
-ReactJS | NodeJS(Express) | TypeScript | JavaScript | Golang
+ReactJS | NextJS | NodeJS(Express & NestJS) | TypeScript | JavaScript | Golang
 
 Style and responsiveness with CSS, SCSS, TailwindCSS, Styled-Components. 
 
