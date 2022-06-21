@@ -1,7 +1,7 @@
 Software Developer. 
 
 <div align="center">
-  <img height="500em" width="700" src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/illustrations/png/2.png"/>
+  <img height="250em" width="200" src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/illustrations/png/2.png"/>
 </div>
 
 ReactJS | NextJS | NodeJS(Express & NestJS) | TypeScript | JavaScript | Golang
