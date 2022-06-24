@@ -1,21 +1,37 @@
-Software Developer. 
+:diamond_shape_with_a_dot_inside: Desenvolvedor Front-end Jr. :diamond_shape_with_a_dot_inside:
 
-ReactJS | NextJS | NodeJS(Express & NestJS) | TypeScript | JavaScript | Golang
+<h3>REACTJS | NEXTJS</h3>
 
-Style and responsiveness with CSS, SCSS, TailwindCSS, Styled-Components. 
+- Estilização e responsividade com CSS, SCSS, TailwindCSS, Styled-Components, MaterialUI, BootStrap.
+- TypeScript | JavaScript.
+- HTML
+- Testes com Jest e React-Testing-Library.
+- React funcional e com Hooks.
+- Consumo de API's com axios, fetch e React Query.
+- Controle de estado com contextAPI e Redux.
+- Server side rendering com NextJS,  GraphQL, Apollo Client | GraphCMS
 
-I  use React-Testing-Library e Jest for tests.
+<h3>NODEJS | GOLANG</h3>
 
-React functional with hooks e state control with ContextAPI, Redux and ReactQuery.
+- ExpressJS, NestJS para criar RestAPI's com Nodejs e Gin e Gorilla Mux para Golang.
+- TypeScript | JavaScript | Golang
+- Padrões SOLID.
+- Testes com Jest.
+- Autenticação JWT.
+- TypeORM, SequelizeORM e Mongoose para banco não relacional MongoDB.
 
-NextJS | GraphQL | GraphCMS
+<h3>Tools</h3>
 
-RestAPI's && Cruds i use Golang( HTTP & MUX) and Nodejs(Express, NestJS)
+- Banco de dados:
+MySQL, PostgreSQL and MongoDB.
+- WorkBench:
+Linux, versionamento de código, Git, GitHub.
+- Conteinerização:
+Docker Compose.
+- Designer: Figma e Canva.
 
-Databases: MySQL, PostgreSQL and MongoDB.
-
-📫 - How to find me:
-(84) 9 9816-5546 - rcostaj00@gmail.com - https://www.linkedin.com/in/ricardo-costa-302aa1214/
+📫 - Meios de entrar em contato comigo:
+(84) 99816-5546 - rcostaj00@gmail.com - https://www.linkedin.com/in/ricardo-costa-302aa1214/
 
 
   
