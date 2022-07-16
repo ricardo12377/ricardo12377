@@ -1,7 +1,8 @@
 :diamond_shape_with_a_dot_inside: Desenvolvedor Front-end Jr. :diamond_shape_with_a_dot_inside:
 
-<h3>FRONT-END REACTJS | NEXTJS</h3>
+<h3>FRONT-END</h3>
 
+- ReactJS, NextJS.
 - TypeScript | JavaScript.
 - HTML.
 - CSS,TailwindCSS, Styled-Components, MUI, DaisyUI, BootStrap, SCSS.
