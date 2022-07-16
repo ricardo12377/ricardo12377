@@ -1,6 +1,6 @@
 :diamond_shape_with_a_dot_inside: Desenvolvedor Front-end Jr. :diamond_shape_with_a_dot_inside:
 
-<h3>REACTJS | NEXTJS</h3>
+<h3>FRONT-END REACTJS | NEXTJS</h3>
 
 - Estilização e responsividade com CSS, SCSS, TailwindCSS, Styled-Components, MaterialUI, BootStrap.
 - TypeScript | JavaScript.
