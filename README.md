@@ -2,14 +2,16 @@
 
 <h3>FRONT-END REACTJS | NEXTJS</h3>
 
-- Estilização e responsividade com CSS, SCSS, TailwindCSS, Styled-Components, MaterialUI, BootStrap.
 - TypeScript | JavaScript.
-- HTML
+- HTML.
+- CSS,TailwindCSS, Styled-Components, MUI, DaisyUI, BootStrap, SCSS.
+- Responsividade e Mobile-First.
 - Testes com Jest e React-Testing-Library.
 - React funcional e com Hooks.
 - Consumo de API's com axios, fetch e React Query.
-- Controle de estado com contextAPI e Redux.
-- Server side rendering com NextJS,  GraphQL, Apollo Client | GraphCMS
+- Controle de estado com contextAPI,Redux, Redux-Toolkit, Redux-Saga e Zustand.
+- Server side rendering com NextJS,  GraphQL, Apollo Client | GraphCMS.
+
 
 <h3>NODEJS | GOLANG</h3>
 
