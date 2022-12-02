@@ -19,9 +19,6 @@
 - ExpressJS, NestJS para criar RestAPI's com Nodejs e Gin e Gorilla Mux para Golang.
 - TypeScript | JavaScript | Golang
 - Padrões SOLID.
-- Testes com Jest.
-- Autenticação JWT.
-- TypeORM, SequelizeORM e Mongoose para banco não relacional MongoDB.
 
 <h3>Tools</h3>
 
@@ -29,9 +26,7 @@
 MySQL, PostgreSQL and MongoDB.
 - WorkBench:
 Linux, versionamento de código, Git, GitHub.
-- Conteinerização:
-Docker Compose.
-- Designer: Figma e Canva.
+
 
 📫 - Meios de entrar em contato comigo:
 (84) 99816-5546 - rcostaj00@gmail.com - https://www.linkedin.com/in/ricardo-costa-302aa1214/
