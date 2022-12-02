@@ -1,4 +1,4 @@
-:diamond_shape_with_a_dot_inside: Desenvolvedor Front-end Jr. :diamond_shape_with_a_dot_inside:
+:diamond_shape_with_a_dot_inside: Desenvolvedor Front-end. :diamond_shape_with_a_dot_inside:
 
 <h3>FRONT-END</h3>
 
